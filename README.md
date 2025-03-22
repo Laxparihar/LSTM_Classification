@@ -19,7 +19,7 @@ This project builds a text classification model using an LSTM architecture. The 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - TensorFlow
 - Keras
 - Scikit-learn
